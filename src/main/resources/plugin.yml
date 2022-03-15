@@ -1,0 +1,7 @@
+name: TelegramNotify
+version: '${project.version}'
+main: com.github.mrkioz.telegramnotify.TelegramNotify
+api-version: 1.18
+authors: [ MrKioZ ]
+description: Sends A Telegram Message whenever a player joins or leaves the server
+website: https://github.com/MrKioZ
